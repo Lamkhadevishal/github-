@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 creating this file 
 no suggesstions from amazon
+=======
+creating this file 
+>>>>>>> c620560 (chore :created new file file.txt)
