@@ -1,6 +1,7 @@
 gh repo create cli ---remote=origin -public --source=. --push 
 --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
 --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
+ublic --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
 --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
 --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
 --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push --public --source=. gh repo create cli--remote=origin --push 
