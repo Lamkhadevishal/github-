@@ -1,1 +1,2 @@
+gh repo create cli ---remote=origin -public --source=. --push 
  --public --source=. gh repo create cli--remote=origin --push 
