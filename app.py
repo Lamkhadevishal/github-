@@ -1,3 +1,4 @@
+
 """Prime number utilities and simple CLI.
 
 Usage:
@@ -51,3 +52,4 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
